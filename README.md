@@ -1,4 +1,4 @@
-# Sentiment-Analysis-Predictor
+# Sentiment-Based-Binary-Classification-Model-for-Customer-Reviews 
 
 ## Overview
 This repository contains a comprehensive sentiment analysis project that classifies restaurant reviews as positive or negative. The project involves data preprocessing, model training, and sentiment prediction using a Bag of Words (BoW) model and a Naive Bayes classifier. Additionally, it demonstrates how to apply the trained model to a fresh dataset of reviews to predict sentiments.
